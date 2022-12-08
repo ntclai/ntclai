@@ -1,2 +1,7 @@
-![](https://raw.githubusercontent.com/ntclai/Github-Stats/master/generated/overview.svg#gh-dark-mode-only)
-![](https://raw.githubusercontent.com/username/github-stats/master/generated/languages.svg#gh-dark-mode-only)
+## Hi, call me Lai 👋
+
+
+### 📊 Stat
+![](https://github-readme-stats.vercel.app/api?username=ntclai&show_icons=true&theme=cobalt)
+
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ntclai&theme=nightowl&layout=compact)
