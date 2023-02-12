@@ -19,9 +19,3 @@
 </tr>
 <table>
 
----
-<p align="left">
-  <img width="100%" 
-   src="https://github-readme-activity-graph.cyclic.app/graph?username=ntclai&theme=synthwave-84" />
-</p> 
-
