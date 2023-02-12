@@ -1,5 +1,9 @@
 ## Hi, call me Lai 👋
 
+
+- 🌱 Undergraduate student at University of Science - VNUHCM
+- 📫 How to reach me lainguyen130302@gmail.com
+
 <table>
 <tr>
   <td width="48%">
