@@ -1,8 +1,8 @@
 ## Hi there. I'm Lai 👋
 
-
+- 🌱 I'm here to assuage my enthusiasm for Machine Learning and Data Science
 - 🌱 Undergraduate student at University of Science - VNUHCM
-- 📫 How to reach me lainguyen130302@gmail.com
+- 📫 Contact:  lainguyen130302@gmail.com
 
 <table>
 <tr>
