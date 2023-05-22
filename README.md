@@ -1,4 +1,4 @@
-## Hi, call me Lai 👋
+## Hi there. I'm Lai 👋
 
 
 - 🌱 Undergraduate student at University of Science - VNUHCM
