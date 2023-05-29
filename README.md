@@ -2,7 +2,9 @@
 
 - 🌱 I'm here to assuage my enthusiasm for Machine Learning and Data Science
 - 🌱 Undergraduate student at University of Science - VNUHCM
-- 📫 Contact:  lainguyen130302@gmail.com
+- 📫 Contact me on:
+  - lainguyen130302@gmail.com
+  - :office: [LinkedIn](https://www.linkedin.com/in/ntclaii/)
 
 <table>
 <tr>
