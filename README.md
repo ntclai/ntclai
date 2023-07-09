@@ -1,4 +1,4 @@
-## Hi there. I'm Lai 👋
+## Hi there. I'm Lai 
 
 - 🌱 I'm here to assuage my enthusiasm for Machine Learning and Data Science
 - 🌱 Undergraduate student at University of Science - VNUHCM
